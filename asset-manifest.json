@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://abdullah-25.github.io/csb-oesym/static/css/main.ba6200d7.chunk.css",
-    "main.js": "https://abdullah-25.github.io/csb-oesym/static/js/main.208b6769.chunk.js",
-    "main.js.map": "https://abdullah-25.github.io/csb-oesym/static/js/main.208b6769.chunk.js.map",
+    "main.js": "https://abdullah-25.github.io/csb-oesym/static/js/main.c3fa415a.chunk.js",
+    "main.js.map": "https://abdullah-25.github.io/csb-oesym/static/js/main.c3fa415a.chunk.js.map",
     "runtime-main.js": "https://abdullah-25.github.io/csb-oesym/static/js/runtime-main.9ed95981.js",
     "runtime-main.js.map": "https://abdullah-25.github.io/csb-oesym/static/js/runtime-main.9ed95981.js.map",
     "static/js/2.00b0c036.chunk.js": "https://abdullah-25.github.io/csb-oesym/static/js/2.00b0c036.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9ed95981.js",
     "static/js/2.00b0c036.chunk.js",
     "static/css/main.ba6200d7.chunk.css",
-    "static/js/main.208b6769.chunk.js"
+    "static/js/main.c3fa415a.chunk.js"
   ]
 }
